@@ -28,31 +28,31 @@ File: heart_failure_clinical_records_dataset.csv
 
 Columns:
   
-Age: Age of the patient.
-
-Anaemia: Decrease in red blood cells or hemoglobin (1 = Yes, 0 = No).
-
-Creatinine_phosphokinase (CPK): Level of the CPK enzyme in blood (mcg/L).
-
-Diabetes: Whether the patient has diabetes (1 = Yes, 0 = No).
-
-Ejection_fraction: Percentage of blood leaving the heart each contraction (%).
-
-High_blood_pressure: Whether the patient has hypertension (1 = Yes, 0 = No).
-
-Platelets: Platelet count in the blood (kiloplatelets/mL).
-
-Serum_creatinine: Level of creatinine in the blood (mg/dL).
-
-Serum_sodium: Level of sodium in the blood (mEq/L).
-
-Sex: Gender of the patient (1 = Male, 0 = Female).
-
-Smoking: Whether the patient smokes (1 = Yes, 0 = No).
-
-Time: Follow-up period (days).
-
-Death_event: Outcome (1 = Death, 0 = Alive).
+   Age: Age of the patient.
+   
+   Anaemia: Decrease in red blood cells or hemoglobin (1 = Yes, 0 = No).
+   
+   Creatinine_phosphokinase (CPK): Level of the CPK enzyme in blood (mcg/L).
+   
+   Diabetes: Whether the patient has diabetes (1 = Yes, 0 = No).
+   
+   Ejection_fraction: Percentage of blood leaving the heart each contraction (%).
+   
+   High_blood_pressure: Whether the patient has hypertension (1 = Yes, 0 = No).
+   
+   Platelets: Platelet count in the blood (kiloplatelets/mL).
+   
+   Serum_creatinine: Level of creatinine in the blood (mg/dL).
+   
+   Serum_sodium: Level of sodium in the blood (mEq/L).
+   
+   Sex: Gender of the patient (1 = Male, 0 = Female).
+   
+   Smoking: Whether the patient smokes (1 = Yes, 0 = No).
+   
+   Time: Follow-up period (days).
+   
+   Death_event: Outcome (1 = Death, 0 = Alive).
 
 **Installation**
 
