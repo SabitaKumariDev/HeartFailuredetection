@@ -115,11 +115,11 @@ Required Libraries
 
   Create plots for:
   
-    Feature importance.
-    
-    Correlation heatmap.
-    
-    ROC curves for models
+ Feature importance.
+ 
+ Correlation heatmap.
+ 
+ ROC curves for models
 
 **Results**
 
